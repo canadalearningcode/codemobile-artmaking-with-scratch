@@ -15,7 +15,7 @@ Preview Slides: https://ladieslearningcode.github.io/codemobile-artmaking-with-s
 Paint with Gobo (1 hour): <a href="https://docs.google.com/document/d/1iNRHYAays9qSobQ2kdNm-z1nQx3GV7x1_3masDF7V_o/edit?usp=sharing">Solution Sheet</a>
 
 
-## CRÉATION D’ART (FR)
+## Création d'art (FR)
 
 ### Création de spirales
 
