@@ -1,5 +1,5 @@
 # Code Mobile
-## Artmaking with Scratch
+## Artmaking with Scratch (EN)
 
 
 ### Spiral Maker version
@@ -10,9 +10,25 @@ Spiral Maker - Simplified (1 hour): <a href="https://docs.google.com/document/d/
 
 ### Paint with Gobo version
 
-Preview Slides: https://ladieslearningcode.github.io/codemobile-artmaking-with-scratch/slides-2.html
+Preview Slides: https://ladieslearningcode.github.io/codemobile-artmaking-with-scratch/slides2.html
 
 Paint with Gobo (1 hour): <a href="https://docs.google.com/document/d/1iNRHYAays9qSobQ2kdNm-z1nQx3GV7x1_3masDF7V_o/edit?usp=sharing">Solution Sheet</a>
+
+
+## CRÉATION D’ART (FR)
+
+### Création de spirales
+
+Aperçu des diapositives: https://ladieslearningcode.github.io/codemobile-artmaking-with-scratch/slides-fr.html
+
+Création de spirales (simplifié pour 1 heure) : <a href="https://drive.google.com/file/d/0B_fFXOTsCzY7UmFDbjQ2eFFIMFdmX0NaX0tGSzRFWFdHbFI4/view?usp=sharing">Corrigé</a>
+
+### Peindre avec Gobo
+
+Aperçu des diapositives: https://ladieslearningcode.github.io/codemobile-artmaking-with-scratch/slides2-fr.html
+
+Peindre avec Gobo (1 heure) : <a href="https://drive.google.com/file/d/0B_fFXOTsCzY7M1FTU3JQRnYxOThyQVNZODdFMUpMRjY4YmVR/view?usp=sharing">Corrigé</a>
+
 
 <br><br>
 
